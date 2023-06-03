@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author admin
+ * @author 84375
  */
 public class OrderDetail implements Serializable {
 

@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  *
- * @author minh tri
+ * @author 84375
  */
 public class Cart {
 

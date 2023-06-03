@@ -7,7 +7,7 @@ package model;
 
 /**
  *
- * @author SHD
+ * @author 84375
  */
 public class Order {
     private int orderID;

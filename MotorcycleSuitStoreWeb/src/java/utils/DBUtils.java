@@ -10,7 +10,7 @@ import java.sql.DriverManager;
 
 /**
  *
- * @author user
+ * @author 84375
  */
 public class DBUtils {
      public static Connection getConnection() throws Exception{
@@ -19,8 +19,8 @@ public class DBUtils {
         String instanceName="";
         String port="1433";
         String uid="sa";
-        String pwd="123";//nhap mk lai cho dung
-        String db="TeaMilkStore";
+        String pwd="123";
+        String db="SuitStore";
         String driver="com.microsoft.sqlserver.jdbc.SQLServerDriver";
         String url="jdbc:sqlserver://" +IP+"\\"+ instanceName+":"+port
                  +";databasename="+db+";user="+uid+";password="+pwd;
