@@ -184,8 +184,8 @@
                         font-size: 14px;
                         "
                         >
-                        Uống rượu bởi những người dưới 20 tuổi bị pháp luật nghiêm cấm.<br />
-                        Chúng tôi không bán đồ uống có cồn cho người dưới 20 tuổi.
+                        Uống rượu khi lái xe  bị pháp luật nghiêm cấm.<br />
+                        Drive safe and respondsibility .
                     </p>
                 </div>
                 <div class="logo">
